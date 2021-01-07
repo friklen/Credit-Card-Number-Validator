@@ -20,7 +20,7 @@ Discover:
 
 ## Tестирование производилось в следующем окружении:
 * Ноутбук Xiaomi Mi Air
-* Windows 10 Home
+* Windows 10 Home х64
 * версия Java 11.0.9.1
 * IntelliJ IDEA
 
